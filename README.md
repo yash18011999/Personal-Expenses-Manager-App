@@ -1,6 +1,6 @@
-# personalexpfinished
+# Personal Expenses Manager App
 
-A new Flutter application.
+A Flutter application that manages your daily personal expenses
 
 ## Getting Started
 
